@@ -1,3 +1,5 @@
+![Banner](https://www.linkedin.com/in/utkarsh-khodpe-447867254/overlay/background-image/)  
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 # 💫 About Me:
