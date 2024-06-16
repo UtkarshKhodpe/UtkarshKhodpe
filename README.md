@@ -1,4 +1,4 @@
-![Banner](https://www.linkedin.com/in/utkarsh-khodpe-447867254/overlay/background-image/)  
+![Banner](https://media.licdn.com/dms/image/D5616AQHmPjG4vi2ZDg/profile-displaybackgroundimage-shrink_350_1400/0/1695877601997?e=1724284800&v=beta&t=6PQnlve7NKkU3SRyCDDGyg2ShPSYqUQw-DfR_AXqyWk)  
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
