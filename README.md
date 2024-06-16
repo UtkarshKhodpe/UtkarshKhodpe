@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 💫 About Me:
 I am Utkarsh Khodpe 😃.<br><br>A passionate Data Scientist with a keen interest in leveraging data-driven insights to solve real-world problems. Recently graduated with a degree in Data Science, I am eager to embark on my professional journey and make a meaningful impact in the field.<br><br>As a data scientist, I specialize in data preprocessing, extracting actionable insights from complex datasets, developing predictive models using machine learning and deep learning, and deploying scalable solutions to drive business growth.<br><br>
