@@ -1,10 +1,10 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif
 
 # 💫 About Me:
 I am Utkarsh Khodpe 😃.<br><br>A passionate Data Scientist with a keen interest in leveraging data-driven insights to solve real-world problems. Recently graduated with a degree in Data Science, I am eager to embark on my professional journey and make a meaningful impact in the field.<br><br>As a data scientist, I specialize in data preprocessing, extracting actionable insights from complex datasets, developing predictive models using machine learning and deep learning, and deploying scalable solutions to drive business growth.<br><br>
 
 
-<img align="right" alt="Coding" width="400" src="file:///C:/Users/utkar/Pictures/Profile.jpg">
+
 
 
 
