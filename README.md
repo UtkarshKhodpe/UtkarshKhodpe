@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/D5616AQHmPjG4vi2ZDg/profile-displaybackgroundimage-shrink_350_1400/0/1695877601997?e=1724284800&v=beta&t=6PQnlve7NKkU3SRyCDDGyg2ShPSYqUQw-DfR_AXqyWk)  
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQHmPjG4vi2ZDg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1695877601997?e=1741219200&v=beta&t=s9sySfJEtlq1N0RTDFYgiRiK4_0XN8H55sm7-CY_DSg) 
 
 <img align="right" alt="Coding" width="400" src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-articleLarge.gif?quality=75&auto=webp&disable=upscale">
 
